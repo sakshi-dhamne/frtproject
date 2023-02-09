@@ -5,6 +5,8 @@ Azure Link for the project is:
 https://brave-water-0102f5a10.2.azurestaticapps.net
 
 Screenshots of the web pages:
+
+
 **HOME PAGE:**
 ![Sparadise-Sparkles-to-your-Shine-Home (1)](https://user-images.githubusercontent.com/86339500/217884688-0ce9c1ca-0282-4a5a-9565-b83c565faf80.jpg)
 
