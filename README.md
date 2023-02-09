@@ -1,10 +1,10 @@
 # frtproject
 This repository contains final project of Microsoft Future Ready Talent 2023
 
-Azure Link for the project is:  
+### Azure Link for the project is:  
 https://brave-water-0102f5a10.2.azurestaticapps.net
 
-Screenshots of the web pages:
+## Screenshots of the web pages:
 
 
 **HOME PAGE:**
@@ -19,7 +19,7 @@ Screenshots of the web pages:
 **CONTACT PAGE:**
 ![Sparadise-Sparkles-to-your-Shine-Contact](https://user-images.githubusercontent.com/86339500/217885410-7bdbbeab-b4a6-43e1-a5f1-d1e7b526ca03.jpg)
 
-**Azure Services here used is : 1. Static Web Page   2. Azure Bot Service**
+#### **Azure Services here used is : 1. Static Web Page   2. Azure Bot Service**
 
 
 1. ![sparadiseweb-Microsoft-Azure](https://user-images.githubusercontent.com/86339500/217886521-fc2fee9c-5acf-4e8e-9925-23176af1a31b.jpg)
